@@ -1,0 +1,5 @@
+# Ignore all .idea folder content
+.idea/
+
+# Ignore build output directories
+/out/
